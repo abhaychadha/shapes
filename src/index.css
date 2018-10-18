@@ -1,0 +1,12 @@
+html  {
+  min-height: 100vh;
+}
+.row, .col{
+  margin-right: 0;
+     margin-left: 0; 
+}
+body, #app, .content-container {
+    height: 100vh;
+    margin: 0;
+    padding: 0;  
+}
